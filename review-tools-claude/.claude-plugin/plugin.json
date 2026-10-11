@@ -1,0 +1,9 @@
+{
+  "name": "review-tools-claude",
+  "description": "Reusable GitHub PR shipping and review workflow: a deliberate draft-PR creation skill and a read-only PR reviewer agent that applies the ServiceForge C2 checklist to a remote diff.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ServiceForge AI-native engineering training",
+    "email": "devops@serviceforge.local"
+  }
+}
