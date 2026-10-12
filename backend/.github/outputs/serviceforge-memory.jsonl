@@ -1,0 +1,9 @@
+{"ts":"2026-10-12T14:38:40.138441400Z","ns":"serviceforge:parts:reservations","payload":{"action":"release","reservationId":1,"jobId":1}}
+{"ts":"2026-10-12T14:38:40.143388200Z","ns":"serviceforge:parts:reservations","payload":{"action":"release","reservationId":1,"jobId":1}}
+{"ts":"2026-10-12T14:38:40.150132200Z","ns":"serviceforge:parts:reservations","payload":{"action":"releaseAllForJob","jobId":1}}
+{"ts":"2026-10-12T14:39:55.655836Z","ns":"serviceforge:parts:reservations","payload":{"action":"release","reservationId":1,"jobId":1}}
+{"ts":"2026-10-12T14:39:55.674852Z","ns":"serviceforge:parts:reservations","payload":{"action":"release","reservationId":1,"jobId":1}}
+{"ts":"2026-10-12T14:39:55.674852Z","ns":"serviceforge:parts:reservations","payload":{"action":"releaseAllForJob","jobId":1}}
+{"ts":"2026-10-12T18:39:47.445824600Z","ns":"serviceforge:parts:reservations","payload":{"action":"release","reservationId":1,"jobId":1}}
+{"ts":"2026-10-12T18:39:47.452340300Z","ns":"serviceforge:parts:reservations","payload":{"action":"release","reservationId":1,"jobId":1}}
+{"ts":"2026-10-12T18:39:47.456461Z","ns":"serviceforge:parts:reservations","payload":{"action":"releaseAllForJob","jobId":1}}

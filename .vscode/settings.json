@@ -137,5 +137,9 @@
         "Invoke-Expression": false,
         "iex": false
     },
-    "chat.agent.sandbox.fileSystem.userConfiguredPaths": {}
+    "chat.agent.sandbox.fileSystem.userConfiguredPaths": {},
+
+    "chat.pluginLocations": {
+        "${workspaceFolder}/review-tools-copilot": true
+    }
 }
