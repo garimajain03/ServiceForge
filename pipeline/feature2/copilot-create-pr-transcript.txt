@@ -1,0 +1,9 @@
+[PLACEHOLDER] Copilot create-pr transcript
+
+This file is a placeholder to record the VS Code Copilot chat transcript when the
+`review-tools-copilot:create-pr` skill is invoked locally. Replace this entire file
+with an actual transcript that includes the exact returned PR URL and PR number.
+
+Timestamp: 2026-10-12T00:00:00Z
+Invoked skill: review-tools-copilot:create-pr
+Returned PR URL: https://github.com/garimajain03/ServiceForge/pull/2

@@ -138,4 +138,8 @@
         "iex": false
     },
     "chat.agent.sandbox.fileSystem.userConfiguredPaths": {}
+
+    ,"chat.pluginLocations": {
+        "${workspaceFolder}/review-tools-copilot": true
+    }
 }

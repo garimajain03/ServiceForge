@@ -1,0 +1,17 @@
+{
+  "pr_number": 2,
+  "review": {
+    "submitted": false,
+    "review_id": null,
+    "comments": [
+      {
+        "file": "backend/src/main/java/com/serviceforge/service/PartsReservationService.java",
+        "line": null,
+        "side": "RIGHT",
+        "body": "[Checklist 1|5] E4 missing: listForJob did not re-run Feature 1 live validity check before returning. Recommend calling TechnicianAvailabilityService.isValidNonOverlapping(jobId).",
+        "posted": false
+      }
+    ],
+    "notes": "Replace placeholders with MCP response once pending review is created via GitHub MCP (add review_id and comment anchors)."
+  }
+}

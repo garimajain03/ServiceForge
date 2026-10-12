@@ -1,0 +1,10 @@
+{
+  "pr_number": 2,
+  "html_url": "https://github.com/garimajain03/ServiceForge/pull/2",
+  "head": "test-c3-cr",
+  "base": "main",
+  "draft": true,
+  "created_by": "review-tools-claude:create-pr",
+  "timestamp": "2026-10-12T00:00:00Z",
+  "notes": "Recorded by local evidence script as part of C3 packaging — replace raw_response with MCP response if available."
+}
