@@ -45,3 +45,4 @@ Reflection:
 - Inspected before use: the GitHub MCP server's tool list and the `.mcp.json` command/args â€” confirmed it only needs `GITHUB_PERSONAL_ACCESS_TOKEN` as an env var (never written to disk) and that the agent's tool list is restricted to 5 named read/review tools. Not inspecting this would risk granting the review agent merge/push/delete-scope tools it doesn't need.
 - A teammate installing this plugin gets the intended workflow (not a drifting copy) because: the checklist/rules/specs are read by path from the consuming repo at run time rather than duplicated into the plugin, the manifest's `version` field is the single update signal, and `PLUGIN_INVENTORY.md` documents exactly what is and isn't bundled so a stale local copy is easy to spot against the README's install/reload steps.
 
+- Created draft PR: https://github.com/garimajain03/ServiceForge/pull/2 (test-c3-cr ? main) — deliberately-invoked draft for testing create-pr and pr-reviewer skills.
